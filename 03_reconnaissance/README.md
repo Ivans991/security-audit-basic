@@ -3,7 +3,7 @@
 This document records the initial verification of the system environment before performing any security scanning activities.
 
 ## System Information
-- Operating System: Windows 10
+- Operating System: Windows 11
 - System Type: Local workstation
 - Audit Date: [TO BE COMPLETED]
 
@@ -15,3 +15,4 @@ This document records the initial verification of the system environment before 
 
 ## Notes
 This verification step ensures that the system is in a known and controlled state before initiating reconnaissance activities.
+
