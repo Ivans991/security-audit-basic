@@ -5,7 +5,7 @@ The objective of this project is to perform a basic, non-intrusive security audi
 
 ## System Under Audit
 - System type: Local workstation
-- Operating system: Windows 10
+- Operating system: Windows 11
 - Audit environment: Personal system
 - Audit type: Educational and non-production
 
@@ -26,5 +26,6 @@ The objective of this project is to perform a basic, non-intrusive security audi
 
 ## Ethical Statement
 This audit is conducted strictly for educational purposes on a system owned by the author. No unauthorized access, exploitation, or malicious activity is performed.
+
 
 
